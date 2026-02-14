@@ -1,1 +1,1 @@
-Singlify is a developer-first engine that keeps your website content and social media in sync — publish once, automatically distribute everywhere. Built to integrate easily with WordPress, backend frameworks, and future AI-powered content workflows.
+Owlstack is a developer-first engine that keeps your website content and social media in sync — publish once, automatically distribute everywhere. Built to integrate easily with WordPress, backend frameworks, and future AI-powered content workflows.
